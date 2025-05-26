@@ -40,12 +40,6 @@ I'm a passionate web and application developer with experience in multiple progr
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=importaxios&theme=tokyonight" alt="Profile Details" />
 </p>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=importaxios&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
 ## 🌐 Find Me
 
 <p align="center">
