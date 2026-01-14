@@ -11,17 +11,13 @@ I'm a passionate web and application developer with experience in multiple progr
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=importaxios&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=importaxios&theme=tokyonight" alt="Profile Details" />
 </p>
 
 ## Find Me
 
 <p align="center">
-  <a href="https://discordlookup.com/user/1022294409938751559" target="_blank">
+  <a href="https://discord.com/users/989861264333369396" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" />
   </a>
   <a href="https://www.roblox.com/users/111961392/profile" target="_blank">
